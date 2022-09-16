@@ -1,0 +1,18 @@
+{
+    "compilerOptions": {
+        "target": "es2020", /* 编译环境 */
+        "moduleResolution": "node", /* 运行时模仿node的解析策略，默认为Classical，向后兼容 */
+        "declaration": true, /* 生成相关的 '.d.ts' 文件。 */
+        "declarationDir": "./dist/types", /* '.d.ts' 文件输出目录 */
+        "jsx": "preserve",
+    },
+    "include": [
+        "./**/*.*",
+        "./shims-vue.d.ts",
+    ],
+    "exclude": [
+        "node_modules"
+    ],
+    "esModuleInterop": true,
+    "allowSyntheticDefaultImports": "true"
+}
