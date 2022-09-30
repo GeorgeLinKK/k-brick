@@ -59,6 +59,6 @@
     "unocss": "^0.33.4",
     "vitepress": "^0.22.4",
     "vitepress-theme-demoblock": "^1.4.2",
-    "vitest": "^0.14.0"
+    "vitest": "^0.23.4"
   }
 }

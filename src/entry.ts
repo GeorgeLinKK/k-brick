@@ -1,5 +1,5 @@
 import { App } from "vue";
-import { KButton } from "./button";
+import { KButton } from "./Button";
 import "uno.css";
 
 // 导出单独组件
